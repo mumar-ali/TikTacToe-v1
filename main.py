@@ -1,3 +1,4 @@
+# this code is to play tick tack toe with a non-intelligent bot.
 
 board = [["EMPTY" for i in range(3)] for j in range(3)]
 board[0][0] =1
